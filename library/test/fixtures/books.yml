@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  authot_id: 1
+  title: MyString
+  isbn: 1
+
+two:
+  authot_id: 1
+  title: MyString
+  isbn: 1
